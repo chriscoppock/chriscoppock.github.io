@@ -20,6 +20,7 @@ body {
 h1 {
   color: #2c3e50;
   margin: 5%;
+  text-transform: uppercase;
 }
 
 h2 {
@@ -28,9 +29,9 @@ h2 {
 }
 
 p {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Raleway', 'Source Sans Pro', sans-serif;
   margin: 5%;
-}
+  }
 
 .firstpara {
   border-left: 6px solid lightgray;
